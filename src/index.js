@@ -1,4 +1,4 @@
-import { ProjectCollection, Project } from "./Project"
+import { ProjectCollection, Project } from "./classes/Project"
 
 const projects = new ProjectCollection()
 
