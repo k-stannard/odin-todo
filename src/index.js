@@ -1,4 +1,5 @@
-import { ProjectCollection, Project } from "./classes/Project"
+import { ProjectCollection } from "./models/ProjectCollection"
+import { Project } from "./models/Project"
 
 const projects = new ProjectCollection()
 
